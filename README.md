@@ -10,3 +10,5 @@
 cd bot
 pip install -r requirements.txt
 python main.py
+
+New GPG Commit test !
